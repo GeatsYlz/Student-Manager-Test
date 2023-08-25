@@ -1,5 +1,6 @@
 <template>
     <div>
+<<<<<<< HEAD
     <h1>课程列表</h1>
     <el-button type="danger" @click="getStudentList">获取课程信息</el-button>
     <el-button type="primary" @click="addStudent">新增</el-button>
@@ -86,6 +87,9 @@
     
 
     <!--p> {{ studentList }} </p-->
+=======
+        <h1>课程列表。</h1>
+>>>>>>> 725ec2c2ad63b0c3675c1e4b38aed785bd8f8f8a
     </div>
 </template>
 
