@@ -86,9 +86,7 @@
     
 
     <!--p> {{ studentList }} </p-->
-=======
-        <h1>课程列表。</h1>
->>>>>>> 725ec2c2ad63b0c3675c1e4b38aed785bd8f8f8a
+
     </div>
 </template>
 
